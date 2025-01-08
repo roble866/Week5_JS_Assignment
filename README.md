@@ -16,7 +16,7 @@ This week's assignment focuses on **Arrays**, **Objects**, and **Callback Functi
    - Start coding on this branch.
 
 2. **Complete the Tasks**:
-   - Open the `challenges.js` file.
+   - Open the `arrays.js`, `callbacks.js`, `objects.js` file.
    - Complete all problems related to arrays, objects, and callback functions.  
    - Skip stretch problems until all required tasks are finished.
 
@@ -25,7 +25,7 @@ This week's assignment focuses on **Arrays**, **Objects**, and **Callback Functi
      ```bash
      git add .
      git commit -m "Completed task #"
-     git push origin <your-branch-name>
+     git push -u origin <your-branch-name>
      ```
 
 4. **Submit Your Assignment**:
